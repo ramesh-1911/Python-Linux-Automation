@@ -1,0 +1,1 @@
+- cli_tool.py – Command-line automation tool using argparse for flexible script execution
